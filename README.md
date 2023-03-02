@@ -1,3 +1,5 @@
+## 2022 NeurIPS Ariel Data Challenge Second Place Solution for the Regular Track
+
 The commands for solution generation are as follows.
 
 `DATA_DIR` is the location of the competition data(TrainingData, TestData, 
